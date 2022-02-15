@@ -229,7 +229,7 @@ html {
 }
 
 .imageCon {
-  background: url("../../assets/images/about.jpg") no-repeat center;
+  background: url("../assets/images/about.jpg") no-repeat center;
   background-size: cover;
   position: relative;
   width: 60%;
